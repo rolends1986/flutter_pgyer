@@ -2,21 +2,10 @@ PODS:
   - Flutter (1.0.0)
   - flutter_pgyer (0.0.1):
     - Flutter
-    - Pgyer
-    - PgyUpdate
-  - Pgyer (2.8.9)
-  - PgyUpdate (1.6)
 
 DEPENDENCIES:
   - Flutter (from `.symlinks/flutter/ios`)
   - flutter_pgyer (from `.symlinks/plugins/flutter_pgyer/ios`)
-  - Pgyer
-  - PgyUpdate
-
-SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
-    - Pgyer
-    - PgyUpdate
 
 EXTERNAL SOURCES:
   Flutter:
@@ -25,11 +14,9 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/flutter_pgyer/ios"
 
 SPEC CHECKSUMS:
-  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
-  flutter_pgyer: 10c26830f98199f279b8778bef93be238d874dee
-  Pgyer: 830654e51e23f754cce5d8b3ea9ba72be68452eb
-  PgyUpdate: cd6c2ada5928f36a9f904d8f96a9b3b53e190755
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_pgyer: 0b2b74fb33b64aa3b6b0ac3211c83a6a19f67bda
 
-PODFILE CHECKSUM: 1d0c20f64561434de91481646d52dbff3e79dc21
+PODFILE CHECKSUM: d9512ffd4a5cc9cc649b88a7c599e3740a6135a1
 
-COCOAPODS: 1.7.1
+COCOAPODS: 1.8.3

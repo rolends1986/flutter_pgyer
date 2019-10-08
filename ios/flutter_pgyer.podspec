@@ -15,9 +15,8 @@ A new Flutter project.
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'Pgyer'
-  s.dependency 'PgyUpdate'
-
+  s.vendored_frameworks = 'Classes/PgySDK.framework','Classes/PgyUpdate.framework'
+  s.frameworks = 'CoreTelephony','OpenGLES','CoreMotion','AudioToolbox','AvFoundation','SystemConfiguration'
   s.ios.deployment_target = '8.0'
 end
 
