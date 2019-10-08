@@ -12,7 +12,7 @@ A new Flutter project.
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Your Company' => 'email@example.com' }
   s.source           = { :path => '.' }
-  s.source_files = 'Classes/**/*'
+  s.source_files = 'Classes/**/*.m'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
   s.vendored_frameworks = 'Classes/PgySDK.framework','Classes/PgyUpdate.framework'
