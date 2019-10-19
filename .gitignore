@@ -9,3 +9,5 @@ build/
 example/ios/Flutter/flutter_export_environment.sh
 example/pubspec.lock
 pubspec.lock
+lib/generated/i18n.dart
+res/values/strings_en.arb
